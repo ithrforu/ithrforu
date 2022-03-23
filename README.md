@@ -1,5 +1,6 @@
 # Vladimir Kolesnikov
 **Junior frontend developer**
+![Me](images/me.png)
 
 ### Contacts:
 * [Telegram](https://t.me/ithrforu)
