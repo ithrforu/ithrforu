@@ -1,7 +1,7 @@
 # Vladimir Kolesnikov
 ![Me](images/me.png)
 ## Junior frontend developer
-### Contacts
+### Contacts:
 * [Telegram](https://t.me/ithrforu)
 * [Email](kolesnikov.v1996@gmail.com)
 * [Linkedin](https://www.linkedin.com/in/ithrforu/)
