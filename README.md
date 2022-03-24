@@ -17,4 +17,4 @@
 * npm
 * Git, GitHub
 * Figma, Photoshop
-* Experienced Windows and beginner Linux user.
+* Experienced Windows and beginner Linux user
