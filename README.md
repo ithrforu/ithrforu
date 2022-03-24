@@ -1,5 +1,4 @@
 # Vladimir Kolesnikov
-![Me](images/me.png) 
 
 **Junior frontend developer**
 
@@ -18,12 +17,4 @@
 * npm
 * Git, GitHub
 * Figma, Photoshop
-* Experienced Windows user and I have Linux Ubuntu as a working OS.
-
----
-
-At the current moment I learn JS with the [MDN documentation](https://developer.mozilla.org/en-US/docs/Learn/HTML#prerequisites), studying at the [RSSchool](https://rs.school/js/) frontend course and computer science. Previously I was learning the educational programming language *PascalABC.NET* (С# based language).
-
-I have a completed higher education in HR (bachelor degree) and 1.5 years done of master's HR degree.
-
-**English level** – A2. I read technical documentation in English and communicate on a english speaking forum.
+* Experienced Windows and beginner Linux user.
