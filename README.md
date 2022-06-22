@@ -10,7 +10,7 @@
 ---
 
 ### My skills:
-* Semantic HTML, Makdown, CSS, basic JavaScript (ES6+)
+* Semantic HTML, Markdown, CSS, JavaScript (ES6+)
 * PostCSS, SASS/Scss, Less, Pug, BEM(naming/file structure/building)
 * Basic NodeJS, npm
 * Gulp
