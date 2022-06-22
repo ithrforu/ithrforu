@@ -11,10 +11,9 @@
 
 ### My skills:
 * Semantic HTML, Makdown, CSS, basic JavaScript (ES6+)
-* PostCSS, SASS/Scss, Less preprocessors, Pug template engine
-* BEM methodology
+* PostCSS, SASS/Scss, Less, Pug, BEM(naming/file structure/building)
+* Basic NodeJS, npm
 * Gulp
-* npm
-* Git, GitHub
+* Git, GitHub.
 * Figma, Photoshop
 * Experienced Windows and beginner Linux user
