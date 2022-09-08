@@ -10,8 +10,8 @@
 ---
 
 ### skills:
-* JavaScript (ES6+), TypeScipt, React, Webpack, Gulp, Semantic HTML, CSS, Markdown.
-* Basic algorithms and data structures, 
+* JavaScript (ES6+), TypeScript, React, Webpack, Gulp, Semantic HTML, CSS, Markdown.
+* Basic algorithms and data structures
 * PostCSS, SASS/Scss, Less, Pug, BEM(naming/file structure/building) 
 * Git, GitHub.
 * Figma, Photoshop
