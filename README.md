@@ -1,7 +1,5 @@
 # Vladimir Kolesnikov
 
-**Junior frontend developer**
-
 ### Contacts:
 * [Telegram](https://t.me/ithrforu)
 * [Linkedin](https://www.linkedin.com/in/ithrforu/)
@@ -9,7 +7,7 @@
 
 ---
 
-### skills:
+### Skills:
 * JavaScript (ES6+), TypeScript, React, Webpack, Gulp, Semantic HTML, CSS, BEM(naming/file structure/building)
 * Basic algorithms and data structures
 * PostCSS, SASS/Scss, Less, Pug
