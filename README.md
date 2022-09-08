@@ -9,11 +9,10 @@
 
 ---
 
-### My skills:
-* Semantic HTML, Markdown, CSS, JavaScript (ES6+)
-* PostCSS, SASS/Scss, Less, Pug, BEM(naming/file structure/building)
-* Basic NodeJS, npm
-* Gulp
+### skills:
+* JavaScript (ES6+), TypeScipt, React, Webpack, Gulp, Semantic HTML, CSS, Markdown.
+* Basic algorithms and data structures, 
+* PostCSS, SASS/Scss, Less, Pug, BEM(naming/file structure/building) 
 * Git, GitHub.
 * Figma, Photoshop
-* Experienced Windows and beginner Linux user
+* Experienced Linux and Windows user
