@@ -8,7 +8,7 @@
 ---
 
 ### Skills:
-* JavaScript (ES6+), TypeScript, React, Webpack, ViteJs, Gulp
+* JavaScript (ES6+), TypeScript, React, Webpack, ViteJs, Gulp, Postman
 * Semantic HTML, CSS, PostCSS, SASS/Scss, Less, Pug, BEM (naming/file structure/building)
 * Basic algorithms and data structures
 * Git, GitHub
