@@ -10,6 +10,7 @@
 ### Skills:
 * JavaScript (ES6+), TypeScript, React, Webpack, ViteJs, Gulp, Postman
 * Semantic HTML, CSS, PostCSS, SASS/Scss, Less, Pug, BEM (naming/file structure/building)
+* MaterialUI, Tailwind, Formik, yup
 * Basic algorithms and data structures
 * Git, GitHub
 * Figma, Photoshop
