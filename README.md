@@ -8,7 +8,7 @@
 ---
 
 ### Skills:
-* JavaScript, TypeScript, React, CRA(CO), Node.js basics, Webpack, ViteJs, Gulp, Material UI, Formik, yup
+* JavaScript, TypeScript, React, CRA(CO), Node.js basics, Webpack, Vite, Rollup, Gulp, Material UI, Formik, yup
 * Semantic HTML, CSS, PostCSS, SASS/Scss, Less, Pug, BEM (naming/file structure/building), Tailwind
 * Algorithms and data structures basics
 * Git
